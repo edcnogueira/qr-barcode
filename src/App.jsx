@@ -13,7 +13,7 @@ function App() {
         }}/>
 
         <p>{data}</p>
-        <h1>teste2</h1>
+        <h1>teste3</h1>
     </div>
   )
 }
